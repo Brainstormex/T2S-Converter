@@ -44,7 +44,7 @@ style.theme_create('pastel', settings={
 
 
 #style = ttk.Style()
-window.title("T2S & S2T")
+window.title("T2S Converter")
 
 tabControl = ttk.Notebook(window)
 tabControl.grid_rowconfigure([0], weight=1)
